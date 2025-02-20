@@ -116,15 +116,6 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 `ANOTHER_API_KEY`
 
-
-## Funcionalidades
-
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
-
 ## Autores
 
 - [@octokatherine](https://www.github.com/octokatherine)
