@@ -32,31 +32,15 @@ O uso foca em otimizar o tempo com a contratação de um chef autonomo em nossa 
 - O usuário pode buscar chefs por especialidade, tipo de cozinha (italiana, vegana, etc.), avaliações, preço e localização.
 - O sistema deve permitir aplicar filtros de busca (ex: preço, experiência, tipo de comida).
 
-3 - Agendamento de Serviços:
-- O usuário deve ser capaz de agendar uma refeição ou serviço de chef, incluindo a data e o horário desejado.
-- O chef deve receber notificações sobre os serviços agendados e confirmar sua disponibilidade.
-
-4 - Solicitação de Compras no Supermercado:
-- O usuário pode solicitar que o chef faça compras para a refeição. O sistema deve permitir que o chef adicione itens à lista de compras e envie para o supermercado.
-- O usuário deve ser informado sobre o status das compras (ex: compras realizadas, itens disponíveis).
-
-5 - Processamento de Pagamentos:
-- O aplicativo deve permitir que os usuários façam o pagamento de forma segura (cartão de crédito, débito, transferência bancária).
-- O pagamento pode ser feito antes ou após o serviço?
-
-6 - Notificações e Alertas:
-- O sistema deve enviar notificações para os usuários e chefs sobre atualizações no pedido (confirmação de agendamento, status das compras, chegada do chef).
-- O usuário pode receber notificações de promoções, novos chefs ou eventos especiais.
-
-7 - Avaliação e Feedback:
+3 - Avaliação e Feedback:
 - O usuário deve poder avaliar a experiência com o chef após a refeição (pontuação de 1 a 5 estrelas, comentários, sugestões).
 - O chef também pode dar feedback sobre a experiência, como as preferências do cliente e comportamento durante o atendimento.
 
-8 - Gestão de Perfil de Chef:
+4 - Gestão de Perfil de Chef:
 - O chef deve ser capaz de atualizar seu perfil com fotos, descrição de sua especialidade, preços e disponibilidade.
 - O chef pode ver o histórico de seus atendimentos.
 
-9 - Gerenciamento de Pedidos:
+5 - Gerenciamento de Pedidos:
 - O sistema deve permitir que o chef visualize, aceite ou recuse pedidos.
 - O usuário deve poder visualizar o histórico de pedidos, com informações sobre datas, status e detalhes.
 
@@ -67,7 +51,6 @@ O uso foca em otimizar o tempo com a contratação de um chef autonomo em nossa 
 - O sistema deve ter autenticação segura (ex: autenticação de dois fatores, senhas fortes).
 
 2 - Desempenho:
-- O aplicativo deve carregar rapidamente, com tempos de resposta inferiores a 2 segundos em telas principais.
 - A plataforma deve ser capaz de suportar muitos usuários simultâneos (especialmente em horários de pico, como finais de semana).
 
 3 - Escalabilidade:
@@ -84,19 +67,6 @@ O uso foca em otimizar o tempo com a contratação de um chef autonomo em nossa 
 
 6 - Disponibilidade:
 - O sistema deve estar disponível 99% do tempo, com o mínimo de tempo de inatividade planejada para manutenção.
-- O aplicativo deve ter backups regulares e estratégias de recuperação de desastres.
-
-7 - Suporte e Manutenção:
-- O aplicativo deve oferecer suporte ao usuário, com uma seção de FAQ, chat ao vivo ou suporte por e-mail.
-- Deve haver uma equipe técnica para monitorar o sistema e corrigir erros ou bugs rapidamente (caso seja necessário).
-
-8 - Acessibilidade:
-- O aplicativo deve ser acessível a pessoas com deficiência, oferecendo recursos como leitura em voz alta, contraste adequado e navegação por teclado (para usuários com deficiência visual ou motora).
-
-9 - Localização e Internacionalização:
-- O aplicativo deve ser capaz de suportar múltiplos idiomas, caso haja intenções de expansão internacional, e suportar múltiplas moedas também.
-- O sistema de localização deve permitir que o serviço de chef seja fornecido de acordo com a região do usuário (localização geográfica precisa).
-## Restrições e Condições
 
 ### Restrições Técnicas
 - IDEs: Vscode 
