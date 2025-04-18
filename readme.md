@@ -105,9 +105,10 @@ O uso foca em otimizar o tempo com a contratação de um chef autonomo em nossa 
 **Back-end:** Node, Express
 
 ## Casos de Uso Principais
-![image](https://github.com/user-attachments/assets/d4e83ba7-6af8-40c6-aa63-ae8bb24322a5)
-
-
+![image](img/Diagrama%20de%20caso%20de%20uso.png)
+![image](img/Diagrama%20de%20caso%20de%20uso(1).png)
+![image](img/Diagrama%20de%20caso%20de%20uso(2).png)
+![image](img/Diagrama%20de%20caso%20de%20uso(3).png)
 
 ## Tomadas de Decisões
 ## Organização da Arquitetura MVC
